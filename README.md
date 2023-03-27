@@ -1,0 +1,1 @@
+This repository contains files for team project in ALX software Engineering program. Team members are listed in the contributors section of the repository and they include -Udochukwu Divine Chidiebube and -Agubata Prince. Our task is to create our own printf function given in the set of tasks provided to us on our intranet platform.
